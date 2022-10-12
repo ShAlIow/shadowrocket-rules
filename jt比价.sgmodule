@@ -2,7 +2,7 @@
 #!desc=京东和淘宝历史比价
 
 [MITM]
-hostname = trade-acs.m.taobao.com, api.m.jd.com, *.bilibili.com, music.163.com, act.10010.com, m.client.10010.com, wapside.189.cn:9001, ifac*.iqiyi.com, nebula.kuaishou.com, mp.weixin.qq.com, ms.jr.jd.com
+hostname = trade-acs.m.taobao.com, api.m.jd.com, ms.jr.jd.com
 
 [Script]
 
